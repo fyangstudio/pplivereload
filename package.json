@@ -1,0 +1,12 @@
+{
+  "name": "pplivereload",
+  "version": "0.0.1",
+  "bin": {
+    "pplivereload": "./bin/pplivereload"
+  },
+  "dependencies": {
+    "chokidar": ">= 0.8.1",
+    "socket.io": "1.2.1"
+  },
+  "private": true
+}
