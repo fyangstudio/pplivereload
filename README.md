@@ -5,8 +5,8 @@ pplivereload是一款基于nodejs跨平台实时更新的前端编辑工具，�
 安装： 
 
 ```
-$npm pack ppcompress 
-$npm install -g ppcompress
+$npm pack pplivereload 
+$npm install -g pplivereload
 ```
 
 使用：
@@ -16,11 +16,11 @@ $npm install -g ppcompress
 使用1：index.html 目录下
 
 ```
-$ppcompress
+$pplivereload
 ```
 
-使用2: $ppcompress /Users/xxx/test/
+使用2: $pplivereload /Users/xxx/test/
 
-使用3: $ppcompress /Users/xxx/test/index.html
+使用3: $pplivereload /Users/xxx/test/index.html
 
 
